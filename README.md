@@ -8,3 +8,6 @@ Semantic segmentation refers to the process of linking each pixel in an image to
 
 # Encoder Architecture
 ![Alt Text](https://github.com/ramonshri02/UNet-for-Semantic-Image-Segmentation/blob/0a69417b77ead241f29cd18738a38cad66ca4804/Architecture%20Plots/unet_encoder.png)
+
+# Decoder Architecture
+![Alt Text](https://github.com/ramonshri02/UNet-for-Semantic-Image-Segmentation/blob/0a69417b77ead241f29cd18738a38cad66ca4804/Architecture%20Plots/unet_decoder.png)
